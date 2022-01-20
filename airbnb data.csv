@@ -1,0 +1,411 @@
+,accommodates,bathrooms,neighbourhood,num_beds,price,property_type
+0,1,1.0,Kitsilano,1,39,Apartment
+1,1,1.0,Kensington-Cedar Cottage,1,43,Townhouse
+2,2,1.0,Dunbar-Southlands,1,20,Apartment
+3,3,1.0,Fraserview,1,49,Bed and breakfast
+4,2,1.0,Oakridge,1,49,Villa
+5,4,1.0,Arbutus Ridge,1,39,Villa
+6,2,1.0,Arbutus Ridge,1,33,Villa
+7,2,1.0,Point Grey/University of British Columbia,1,45,Villa
+8,2,1.0,Arbutus Ridge,1,35,Villa
+9,2,1.0,Hastings-Sunrise,1,38,Apartment
+10,6,1.0,Downtown Vancouver,1,13,Condominium
+11,1,1.0,Kitsilano,1,45,Apartment
+12,1,1.0,Kitsilano,1,47,Guest suite
+13,1,1.0,Grandview-Woodland,1,49,Apartment
+14,2,1.0,Downtown Vancouver,1,29,Condominium
+15,2,1.5,Kensington-Cedar Cottage,1,49,Townhouse
+16,2,1.0,Fairview,1,49,Apartment
+17,2,1.0,Hastings-Sunrise,1,39,Bungalow
+18,2,1.0,Hastings-Sunrise,1,45,Guest suite
+19,2,1.0,Hastings-Sunrise,1,45,Loft
+20,1,1.0,Downtown Vancouver,1,45,Condominium
+21,1,4.0,Kitsilano,1,37,Apartment
+22,1,3.5,Kitsilano,1,37,Apartment
+23,1,3.5,Kitsilano,1,37,Apartment
+24,1,3.5,Kitsilano,1,46,Apartment
+25,1,3.5,Kitsilano,1,37,Apartment
+26,1,3.5,Kitsilano,1,37,Apartment
+27,2,3.5,Kitsilano,1,37,Apartment
+28,1,3.5,Kitsilano,1,49,Apartment
+29,1,1.0,Riley Park,1,45,Apartment
+30,2,1.0,Grandview-Woodland,1,45,Apartment
+31,1,1.0,Kitsilano,1,39,Condominium
+32,1,1.0,Renfrew-Collingwood,1,30,Apartment
+33,1,1.0,Riley Park,1,45,Condominium
+34,1,1.0,Renfrew-Collingwood,1,28,Apartment
+35,2,1.0,Fairview,1,47,Townhouse
+36,6,1.0,Hastings-Sunrise,1,35,Guest suite
+37,2,1.0,Grandview-Woodland,1,49,Guest suite
+38,3,1.0,Downtown Vancouver,1,39,Condominium
+39,1,1.0,Marpole,1,28,Apartment
+40,2,1.0,Renfrew-Collingwood,1,41,Guest suite
+41,2,1.0,Commercial Drive,1,49,Apartment
+42,2,1.0,Downtown Vancouver,1,34,Condominium
+43,1,1.0,Downtown Vancouver,1,43,Condominium
+44,1,1.0,Kitsilano,1,45,Apartment
+45,2,1.0,Downtown Vancouver,1,49,Condominium
+46,2,1.0,Grandview-Woodland,1,46,Apartment
+47,1,1.0,Kitsilano,1,37,Apartment
+48,2,1.0,Grandview-Woodland,1,42,Condominium
+49,6,1.0,Downtown Vancouver,1,13,Condominium
+50,2,1.0,Downtown Vancouver,1,29,Condominium
+51,1,1.0,Downtown Vancouver,1,45,Condominium
+52,1,1.0,Kitsilano,1,39,Condominium
+53,1,1.0,Riley Park,1,45,Condominium
+54,3,1.0,Downtown Vancouver,1,39,Condominium
+55,2,1.0,Downtown Vancouver,1,34,Condominium
+56,1,1.0,Downtown Vancouver,1,43,Condominium
+57,2,1.0,Kensington-Cedar Cottage,1,50,Condominium
+58,2,1.0,Downtown Vancouver,1,49,Condominium
+59,2,1.0,Riley Park,1,50,Condominium
+60,6,2.0,Downtown Vancouver,1,50,Condominium
+61,2,1.0,Downtown Vancouver,2,94,Condominium
+62,3,1.0,Yaletown,2,59,Condominium
+64,1,1.0,Downtown Vancouver,2,75,Condominium
+65,2,1.0,Mount Pleasant,2,91,Condominium
+67,2,1.0,Mount Pleasant,2,91,Condominium
+68,2,1.0,Mount Pleasant,2,77,Condominium
+69,2,1.0,Yaletown,2,94,Condominium
+70,2,1.0,Mount Pleasant,2,91,Condominium
+71,2,1.0,Mount Pleasant,2,91,Condominium
+72,4,1.0,Downtown Vancouver,2,98,Condominium
+73,2,1.0,Riley Park,2,66,Condominium
+76,6,2.0,Downtown Vancouver,2,70,Condominium
+77,2,1.0,Mount Pleasant,2,77,Condominium
+78,2,1.0,Mount Pleasant,2,91,Condominium
+79,2,1.0,Mount Pleasant,2,77,Condominium
+80,2,1.0,West End,2,83,Condominium
+82,2,1.0,Renfrew-Collingwood,2,87,Condominium
+84,3,1.0,Burnaby,2,91,Condominium
+85,2,1.0,Mount Pleasant,2,91,Condominium
+87,2,1.0,Fairview,2,100,Condominium
+88,2,1.0,West End,2,97,Condominium
+90,2,1.0,Downtown Vancouver,2,100,Condominium
+97,2,1.0,Downtown Vancouver,2,100,Condominium
+98,1,1.0,Downtown Vancouver,2,98,Condominium
+100,2,1.0,Fairview,2,91,Condominium
+101,4,2.0,Fairview,2,100,Condominium
+102,1,1.0,Fairview,2,88,Condominium
+103,2,1.0,Fairview,2,91,Condominium
+104,2,1.0,Fairview,2,94,Condominium
+105,2,1.0,Fairview,2,94,Condominium
+107,2,1.0,Fairview,2,100,Condominium
+108,2,1.0,Fairview,2,100,Condominium
+110,3,1.0,Downtown Vancouver,2,91,Condominium
+112,6,1.0,Riley Park,2,100,Condominium
+113,2,1.0,Downtown Vancouver,2,91,Condominium
+116,2,1.0,Downtown Vancouver,2,98,Condominium
+117,4,1.5,Fairview,2,100,Condominium
+120,2,1.0,Downtown Vancouver,2,94,Condominium
+121,2,1.0,Fairview,2,94,Condominium
+122,3,1.0,Downtown Vancouver,2,60,Condominium
+123,2,1.0,Fairview,2,100,Condominium
+124,3,1.0,Renfrew-Collingwood,2,94,Condominium
+125,2,1.0,Fairview,2,100,Condominium
+126,2,1.0,Fairview,2,100,Condominium
+127,3,1.0,Fairview,2,100,Condominium
+129,2,1.0,Riley Park,2,75,Condominium
+133,4,1.0,Downtown Vancouver,2,83,Condominium
+134,2,1.0,Downtown Vancouver,2,72,Condominium
+136,1,1.0,Gastown,2,100,Condominium
+139,3,2.0,Fairview,2,94,Condominium
+140,4,2.0,Fairview,2,91,Condominium
+141,4,1.0,Downtown Eastside,2,100,Condominium
+143,4,2.0,Marpole,2,98,Condominium
+145,4,1.5,Kensington-Cedar Cottage,2,87,Condominium
+146,2,1.5,Yaletown,2,100,Condominium
+148,4,1.0,Kensington-Cedar Cottage,2,98,Condominium
+149,6,2.0,Renfrew-Collingwood,2,98,Condominium
+150,1,1.0,Downtown Vancouver,2,75,Condominium
+151,2,1.0,Downtown Vancouver,2,91,Condominium
+152,2,1.0,Downtown Vancouver,2,80,Condominium
+157,4,1.0,Downtown Vancouver,2,97,Condominium
+161,2,1.0,Mount Pleasant,2,85,Condominium
+164,6,2.0,Downtown Vancouver,2,100,Condominium
+165,3,1.0,Downtown Vancouver,2,100,Condominium
+166,3,1.0,South Cambie,2,80,Condominium
+167,3,1.0,Renfrew-Collingwood,2,100,Condominium
+168,4,1.0,Downtown Vancouver,2,63,Condominium
+170,2,1.0,Kitsilano,2,100,Condominium
+172,2,1.0,Kensington-Cedar Cottage,2,91,Condominium
+174,4,1.0,Downtown Vancouver,2,98,Condominium
+175,2,1.0,Downtown Vancouver,2,91,Condominium
+180,2,1.0,Downtown Vancouver,2,75,Condominium
+181,2,1.0,Mount Pleasant,2,100,Condominium
+182,2,1.5,Kitsilano,2,100,Condominium
+186,1,1.0,Downtown Vancouver,2,80,Condominium
+187,2,1.0,Commercial Drive,2,100,Condominium
+189,2,1.0,Fairview,2,98,Condominium
+190,4,2.0,Marpole,2,98,Condominium
+191,2,1.0,Mount Pleasant,2,98,Condominium
+192,2,1.0,Mount Pleasant,2,70,Condominium
+193,2,1.0,Downtown Vancouver,2,100,Condominium
+194,2,1.0,Mount Pleasant,2,55,Condominium
+198,1,1.0,Mount Pleasant,2,62,Condominium
+199,2,1.0,Downtown Vancouver,2,98,Condominium
+200,2,1.0,Downtown Vancouver,2,70,Condominium
+201,4,1.0,Downtown Vancouver,2,75,Condominium
+202,4,1.0,Downtown Vancouver,2,85,Condominium
+208,3,1.0,Downtown Vancouver,2,93,Condominium
+209,4,1.0,Mount Pleasant,2,80,Condominium
+214,1,1.0,West End,2,97,Condominium
+217,3,1.0,Downtown Vancouver,2,92,Condominium
+218,2,1.0,Downtown Vancouver,2,98,Condominium
+219,2,1.0,Downtown Vancouver,2,100,Condominium
+220,2,1.0,Grandview-Woodland,2,52,Condominium
+221,2,1.0,Downtown Vancouver,2,89,Condominium
+222,3,1.0,Downtown Vancouver,2,100,Condominium
+223,3,1.0,Downtown Vancouver,2,98,Condominium
+224,2,1.0,Downtown Vancouver,2,89,Condominium
+225,2,1.0,Renfrew-Collingwood,2,75,Condominium
+235,6,2.0,Downtown Vancouver,2,70,Condominium
+236,6,2.0,Downtown Vancouver,2,80,Condominium
+237,4,2.0,Mount Pleasant,2,76,Condominium
+238,4,1.0,Downtown Vancouver,2,79,Condominium
+242,1,1.0,Downtown Vancouver,2,85,Condominium
+244,2,1.5,Renfrew-Collingwood,2,70,Condominium
+245,2,1.0,Strathcona,2,98,Condominium
+254,1,1.0,Downtown Vancouver,2,98,Condominium
+260,2,1.0,Strathcona,2,80,Condominium
+264,2,1.0,Downtown Vancouver,2,85,Condominium
+271,1,1.0,Mount Pleasant,2,75,Condominium
+275,3,1.0,Chinatown,2,79,Condominium
+277,2,1.0,Kensington-Cedar Cottage,2,52,Condominium
+280,2,1.0,Downtown Vancouver,2,98,Condominium
+282,2,1.0,Downtown Vancouver,2,100,Condominium
+283,3,1.0,Downtown Vancouver,2,98,Condominium
+284,2,1.0,West End,2,83,Condominium
+287,1,1.0,Downtown Vancouver,2,75,Condominium
+288,2,1.0,Chinatown,2,70,Condominium
+289,4,1.0,Downtown Vancouver,2,70,Condominium
+292,1,2.0,Fairview,2,70,Condominium
+296,3,1.0,Downtown Vancouver,2,85,Condominium
+298,1,1.0,Mount Pleasant,2,66,Condominium
+299,3,1.0,Downtown Vancouver,2,94,Condominium
+300,2,1.0,Downtown Vancouver,2,55,Condominium
+301,2,1.0,Downtown Vancouver,2,98,Condominium
+302,2,1.0,Downtown Vancouver,2,100,Condominium
+303,3,1.0,Fairview,2,94,Condominium
+63,2,1.0,Fairview,3,119,Condominium
+66,2,1.0,Downtown Vancouver,3,139,Condominium
+74,4,2.0,Fairview,3,138,Condominium
+75,4,1.0,Downtown Vancouver,3,143,Condominium
+81,2,1.0,Downtown Vancouver,3,126,Condominium
+83,4,1.0,Downtown Vancouver,3,129,Condominium
+86,3,1.0,Kitsilano,3,112,Condominium
+89,2,1.0,Marpole,3,139,Condominium
+91,4,2.0,Chinatown,3,131,Condominium
+92,2,1.0,Fairview,3,125,Condominium
+93,2,1.0,Downtown Vancouver,3,125,Condominium
+94,2,1.0,Fairview,3,110,Condominium
+95,6,2.0,Downtown Vancouver,3,110,Condominium
+96,4,1.5,Fairview,3,135,Condominium
+99,4,1.0,Downtown Vancouver,3,139,Condominium
+106,4,2.0,Fairview,3,110,Condominium
+109,4,2.0,Fairview,3,119,Condominium
+111,4,1.5,Fairview,3,125,Condominium
+114,5,1.0,Downtown Vancouver,3,129,Condominium
+115,2,1.0,Downtown Vancouver,3,129,Condominium
+118,2,1.0,Fairview,3,112,Condominium
+119,3,1.0,Fairview,3,110,Condominium
+128,5,1.0,Downtown Vancouver,3,143,Condominium
+130,3,1.0,Downtown Eastside,3,140,Condominium
+131,6,1.5,Kensington-Cedar Cottage,3,125,Condominium
+132,4,1.0,Downtown Vancouver,3,119,Condominium
+135,3,1.0,Downtown Vancouver,3,140,Condominium
+137,2,1.0,Mount Pleasant,3,119,Condominium
+138,2,2.0,Downtown Vancouver,3,119,Condominium
+142,2,1.0,Downtown Vancouver,3,146,Condominium
+144,5,2.0,Downtown Vancouver,3,115,Condominium
+147,2,1.0,Downtown Vancouver,3,119,Condominium
+153,2,1.0,West End,3,109,Condominium
+154,2,1.0,Downtown Vancouver,3,139,Condominium
+155,2,1.0,Downtown Vancouver,3,110,Condominium
+156,2,1.0,Downtown Vancouver,3,135,Condominium
+158,1,1.0,Downtown Vancouver,3,148,Condominium
+159,2,1.0,Downtown Vancouver,3,105,Condominium
+160,2,1.0,Kitsilano,3,112,Condominium
+162,2,1.0,Downtown Vancouver,3,119,Condominium
+163,2,1.0,West End,3,139,Condominium
+169,4,1.0,Renfrew-Collingwood,3,130,Condominium
+171,2,1.0,Mount Pleasant,3,144,Condominium
+173,6,2.0,Downtown Vancouver,3,129,Condominium
+176,2,1.0,Mount Pleasant,3,119,Condominium
+177,2,1.0,Mount Pleasant,3,125,Condominium
+178,5,1.0,Downtown Vancouver,3,129,Condominium
+179,3,1.0,Downtown Vancouver,3,110,Condominium
+183,2,1.0,Downtown Vancouver,3,147,Condominium
+184,3,1.0,Downtown Vancouver,3,119,Condominium
+185,2,1.0,Downtown Vancouver,3,140,Condominium
+188,2,1.0,Downtown Vancouver,3,119,Condominium
+195,5,2.0,Downtown Vancouver,3,125,Condominium
+196,4,1.0,Yaletown,3,144,Condominium
+197,2,1.0,West End,3,119,Condominium
+203,6,2.0,Downtown Vancouver,3,115,Condominium
+204,2,1.0,West End,3,125,Condominium
+205,6,2.0,Downtown Vancouver,3,115,Condominium
+206,5,2.0,Downtown Vancouver,3,148,Condominium
+207,2,1.0,Mount Pleasant,3,129,Condominium
+210,2,1.0,Coal Harbour,3,139,Condominium
+211,3,1.0,Fairview,3,130,Condominium
+212,2,1.0,Mount Pleasant,3,102,Condominium
+213,3,1.0,Downtown Vancouver,3,110,Condominium
+215,4,1.0,Grandview-Woodland,3,112,Condominium
+216,5,2.0,Downtown Vancouver,3,117,Condominium
+226,3,1.0,Downtown Vancouver,3,127,Condominium
+227,4,1.0,Fairview,3,140,Condominium
+228,2,1.0,Mount Pleasant,3,105,Condominium
+229,2,1.0,Downtown Vancouver,3,129,Condominium
+230,4,1.0,Downtown Vancouver,3,129,Condominium
+231,2,1.0,Downtown Vancouver,3,119,Condominium
+232,4,2.0,Downtown Vancouver,3,115,Condominium
+233,4,2.0,Downtown Vancouver,3,130,Condominium
+234,2,1.0,Kitsilano,3,119,Condominium
+239,1,1.0,Downtown Vancouver,3,112,Condominium
+240,2,1.0,Grandview-Woodland,3,130,Condominium
+241,2,1.0,Downtown Vancouver,3,138,Condominium
+243,2,1.0,Downtown Vancouver,3,138,Condominium
+246,4,2.0,Downtown Vancouver,3,146,Condominium
+247,2,1.0,Downtown Vancouver,3,119,Condominium
+248,2,1.0,West End,3,138,Condominium
+249,2,1.5,Downtown Vancouver,3,130,Condominium
+250,3,1.0,Downtown Vancouver,3,130,Condominium
+251,1,1.0,Downtown Vancouver,3,109,Condominium
+252,3,1.0,Downtown Eastside,3,125,Condominium
+253,2,1.0,Downtown Vancouver,3,138,Condominium
+255,2,1.0,West End,3,109,Condominium
+256,2,1.0,Downtown Eastside,3,144,Condominium
+257,3,1.0,Downtown Vancouver,3,140,Condominium
+258,2,1.0,Downtown Vancouver,3,129,Condominium
+259,4,1.0,Downtown Vancouver,3,119,Condominium
+261,2,1.0,Downtown Vancouver,3,125,Condominium
+262,2,1.0,Fairview,3,115,Condominium
+263,2,1.0,Downtown Vancouver,3,130,Condominium
+265,2,1.0,Downtown Vancouver,3,130,Condominium
+266,4,1.5,Downtown Vancouver,3,119,Condominium
+267,2,1.0,Downtown Vancouver,3,130,Condominium
+268,4,1.0,Fairview,3,146,Condominium
+269,2,1.0,Downtown Vancouver,3,119,Condominium
+270,2,2.0,Downtown Vancouver,3,125,Condominium
+272,2,1.0,Downtown Vancouver,3,119,Condominium
+273,2,1.0,Downtown Vancouver,3,138,Condominium
+274,2,1.0,Downtown Vancouver,3,130,Condominium
+276,2,1.0,Downtown Vancouver,3,130,Condominium
+278,2,1.0,Kitsilano,3,119,Condominium
+279,2,1.0,Mount Pleasant,3,126,Condominium
+281,3,1.0,Downtown Vancouver,3,140,Condominium
+285,2,1.0,Downtown Vancouver,3,125,Condominium
+286,2,1.0,West End,3,146,Condominium
+290,2,1.0,Hastings-Sunrise,3,125,Condominium
+291,4,2.0,Riley Park,3,125,Condominium
+293,3,1.0,Strathcona,3,115,Condominium
+294,3,1.0,Downtown Vancouver,3,130,Condominium
+295,4,1.0,Downtown Vancouver,3,129,Condominium
+297,3,2.0,Downtown Vancouver,3,108,Condominium
+305,6,2.0,Kensington-Cedar Cottage,4,160,House
+307,6,2.0,Commercial Drive,4,195,House
+308,3,1.5,Riley Park,4,174,House
+309,4,1.0,Shaughnessy,4,160,House
+311,4,1.0,Kitsilano,4,195,House
+312,6,2.0,Oakridge,4,160,House
+313,4,1.0,Hastings-Sunrise,4,195,House
+314,5,1.5,Kensington-Cedar Cottage,4,171,House
+317,6,1.5,Renfrew-Collingwood,4,169,House
+318,5,1.0,Kitsilano,4,186,House
+319,5,1.0,Arbutus Ridge,4,174,House
+320,4,1.5,Grandview-Woodland,4,189,House
+322,5,1.0,Kitsilano,4,180,House
+324,7,1.5,Fraserview,4,174,House
+327,6,1.5,Marpole,4,198,House
+330,6,1.0,Marpole,4,174,House
+331,7,1.0,Hastings-Sunrise,4,195,House
+332,5,1.0,Riley Park,4,189,House
+334,4,1.0,Mount Pleasant,4,155,House
+335,4,2.0,Kitsilano,4,171,House
+336,8,1.0,Killarney,4,171,House
+338,4,1.0,Dunbar-Southlands,4,174,House
+340,6,1.0,Commercial Drive,4,185,House
+341,4,1.0,Grandview-Woodland,4,189,House
+342,2,1.0,Dunbar-Southlands,4,160,House
+343,11,2.0,Killarney,4,174,House
+345,6,1.5,Kensington-Cedar Cottage,4,195,House
+346,4,1.0,Grandview-Woodland,4,180,House
+347,3,1.0,Hastings-Sunrise,4,169,House
+348,6,2.0,Renfrew-Collingwood,4,178,House
+349,4,1.0,Point Grey/University of British Columbia,4,189,House
+351,6,2.0,Mount Pleasant,4,188,House
+352,4,1.0,Shaughnessy,4,156,House
+355,5,1.0,Shaughnessy,4,188,House
+356,5,1.0,Kitsilano,4,188,House
+359,3,1.0,Grandview-Woodland,4,155,House
+360,5,1.0,Shaughnessy,4,198,House
+361,4,1.0,Shaughnessy,4,195,House
+363,5,1.0,Kensington-Cedar Cottage,4,160,House
+366,4,1.0,Kensington-Cedar Cottage,4,160,House
+372,5,1.0,Fraserview,4,171,House
+373,8,1.0,Marpole,4,171,House
+377,6,2.0,Grandview-Woodland,4,180,House
+378,6,1.5,Kensington-Cedar Cottage,4,180,House
+379,4,1.0,Riley Park,4,174,House
+380,4,1.0,Hastings-Sunrise,4,193,House
+382,6,1.0,Hastings-Sunrise,4,160,House
+384,4,1.0,Renfrew-Collingwood,4,168,House
+386,6,1.0,Fraserview,4,190,House
+388,8,2.0,Grandview-Woodland,4,189,House
+389,6,2.0,Dunbar-Southlands,4,174,House
+390,4,2.0,Kensington-Cedar Cottage,4,188,House
+391,6,1.0,Point Grey/University of British Columbia,4,156,House
+392,4,1.0,Killarney,4,188,House
+393,2,1.0,Point Grey/University of British Columbia,4,161,House
+396,4,1.0,Commercial Drive,4,174,House
+397,4,1.0,Oakridge,4,169,House
+399,6,1.0,Grandview-Woodland,4,169,House
+401,4,1.0,Hastings-Sunrise,4,167,House
+402,5,1.0,Marpole,4,155,House
+403,5,1.5,Arbutus Ridge,4,190,House
+405,4,2.0,Point Grey/University of British Columbia,4,198,House
+407,6,1.0,Killarney,4,188,House
+304,5,2.0,Dunbar-Southlands,5,245,House
+306,3,2.5,Point Grey/University of British Columbia,5,224,House
+310,4,1.5,Kitsilano,5,249,House
+315,6,1.5,Riley Park,5,205,House
+316,10,1.0,Grandview-Woodland,5,240,House
+321,8,2.0,Fraserview,5,228,House
+323,6,2.5,Kensington-Cedar Cottage,5,220,House
+325,5,1.0,Mount Pleasant,5,243,House
+326,6,1.0,Point Grey/University of British Columbia,5,228,House
+328,4,1.0,Kensington-Cedar Cottage,5,224,House
+329,10,2.0,Fraserview,5,230,House
+333,5,1.0,Grandview-Woodland,5,220,House
+337,5,2.5,Grandview-Woodland,5,224,House
+339,9,2.0,Arbutus Ridge,5,240,House
+344,4,1.0,South Cambie,5,214,House
+350,4,1.0,Kitsilano,5,226,House
+353,2,1.0,Riley Park,5,203,House
+354,8,2.0,Hastings-Sunrise,5,248,House
+357,4,1.0,Renfrew-Collingwood,5,235,House
+358,6,2.0,Kensington-Cedar Cottage,5,249,House
+362,6,2.0,South Cambie,5,235,House
+364,6,2.0,Riley Park,5,232,House
+365,6,1.0,Kitsilano,5,245,House
+367,2,1.0,Commercial Drive,5,210,House
+368,5,2.5,Commercial Drive,5,245,House
+369,8,2.0,Fraserview,5,239,House
+370,5,1.0,Kitsilano,5,224,House
+371,2,1.5,Kitsilano,5,209,House
+374,6,3.0,Riley Park,5,209,House
+375,5,2.0,Mount Pleasant,5,215,House
+376,3,1.0,Fraserview,5,224,House
+381,6,1.0,Oakridge,5,206,House
+383,6,2.5,Kensington-Cedar Cottage,5,239,House
+385,6,3.0,Commercial Drive,5,220,House
+387,4,1.5,Marpole,5,228,House
+394,13,4.0,Kensington-Cedar Cottage,5,205,House
+395,4,1.0,Mount Pleasant,5,240,House
+398,7,3.0,Grandview-Woodland,5,234,House
+400,5,2.5,Kitsilano,5,249,House
+404,4,1.0,Mount Pleasant,5,224,House
+406,6,1.5,Riley Park,5,220,House
+10,6,1.0,Downtown Vancouver,1,13,Condominium
+0,,1.0,,1,39,Apartment
